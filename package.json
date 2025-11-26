@@ -1,0 +1,40 @@
+{
+  "name": "@handgemacht-ai/eslint-plugin",
+  "version": "0.1.0",
+  "description": "Shared ESLint rules for Handgemacht React Native projects - Container/View pattern enforcement",
+  "main": "lib/index.js",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "react",
+    "react-native",
+    "container-view-pattern"
+  ],
+  "author": "Handgemacht",
+  "license": "UNLICENSED",
+  "private": false,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/handgemacht-ai/eslint-plugin.git"
+  },
+  "peerDependencies": {
+    "eslint": ">=9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.15.0",
+    "vitest": "^2.1.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
