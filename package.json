@@ -1,6 +1,6 @@
 {
   "name": "@handgemacht-ai/eslint-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shared ESLint rules for Handgemacht React Native projects - Container/View pattern enforcement",
   "main": "lib/index.js",
   "files": [
