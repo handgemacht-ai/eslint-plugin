@@ -1,0 +1,6 @@
+prefix: ep
+issue-prefix: "ep"
+
+sync.mode: "dolt-native"
+
+sync-branch: "beads-sync"
