@@ -18,7 +18,7 @@
     "container-view-pattern"
   ],
   "author": "Handgemacht",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": false,
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
